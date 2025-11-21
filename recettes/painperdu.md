@@ -19,7 +19,7 @@ ingredients:
   - "4 tranches de pain"
   - "1 œuf"
   - "1 cuillère à soupe de sucre"
-  - "20g de beurre"
+  - "20 g de beurre"
   - "50 cl de lait"
 conseils:
   - "Utiliser les restes de pains et parfumer avec ce que vous aimez : cannelle, cardamome..."
