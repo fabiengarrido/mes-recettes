@@ -14,7 +14,7 @@ coût: "€"
 tags:
   - rapide
   - végétarien
-image: painperdu.jpg
+image: ![pain perdu](painperdu.jpg)
 ingredients:
   - "4 tranches de pain"
   - "1 œuf"
