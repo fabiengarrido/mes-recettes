@@ -3,7 +3,7 @@ on: push
 jobs:
   grammaire_et_orthographe:
     runs-on: ubuntu-latest
-    container: python:'3.12'
+    container: python:3.12
     steps:
       - name: Installation de grammalint
         run: python -m pip install git+https://gitlab.in2p3.fr/sonny.lion/grammalint.git
